@@ -1,0 +1,6 @@
+nr1 = input("Introduceti primul nr: ")
+print("primul nr: " + nr1)
+nr2 = input("Introduceti al 2-lea nr: ")
+print("al 2-lea nr: " + nr2)
+suma = float(nr1) + float(nr2)
+print("Suma: " + str(suma))
